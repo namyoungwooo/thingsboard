@@ -1,5 +1,6 @@
 # 경로 - 이 설치법을 따라옴
 https://thingsboard.io/docs/user-guide/install/building-from-source/
+1차 mqtt 부분 소스를 이용해, 값을 읽고, DB에 담는 부분을 구현한다.
 
 # ThingsBoard 
 [![Join the chat at https://gitter.im/thingsboard/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thingsboard/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
